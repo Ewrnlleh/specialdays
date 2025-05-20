@@ -1,0 +1,53 @@
+Flutter kullanıyoruz (cross-platform)
+ 
+Kodumuzu Cursor AI ortamında geliştiriyoruz
+ 
+Versiyon kontrolü için GitHub kullanıyoruz
+ 
+Tatil günleri verisini Calendarific API üzerinden alıyoruz
+ 
+State yönetiminde Riverpod kullanıyoruz
+ 
+🗂 Proje yapısı:
+ 
+models/ → Holiday modeli
+ 
+services/ → API entegrasyonu
+ 
+providers/ → Riverpod provider'lar
+ 
+screens/ → Home ve Detay ekranları
+ 
+widgets/ → Tekrarlanabilir bileşenler
+ 
+🎯 Amaç:
+ 
+Flutter ile sade, temiz ve işlevsel bir UI oluşturmak
+ 
+Tatil günlerini API üzerinden çekmek
+ 
+Kullanıcıya filtreleme (Milli / Dini / Global) özelliği sunmak
+ 
+İleride local notification, paylaşma, takvime ekleme gibi özellikler eklemek
+ 
+Lütfen bu bilgilerle birlikte:
+ 
+Dosya yapısını doğru organize et
+ 
+Kod yazarken clean architecture ve best practice'leri uygula
+ 
+Riverpod ile state management'ı doğru yerleştir
+ 
+UI tarafında material design + responsive yapıya dikkat et
+ 
+Gerekirse geçici mock verilerle arayüzü hazırla
+ 
+Bana çetten herzaman türkçe cevap ver.
+ 
+yazdığın cevaplar kısa olsun tek tek  kodu açıklama.
+ 
+Tasarımları yaparken güncel modern UI/UX tasarım kullan ve prensiplerine uygun olarak tasarla.
+ 
+**Yorum satırları:**
+    - Kod içersinde gereksiz yorum satıları kullanma.
+    - Gerekli durumlarda , karmaşık logic'ler veya önemli noktalar için açıklayıcı yorum satırları kullan.
